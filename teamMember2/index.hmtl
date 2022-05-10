@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day01 html CodeFactory</title>
+  </head>
+  <body>
+    <h1>Heading1</h1>
+    <p>
+      1. this is jsut a test
+    </p>
+    <h2>Heading2</h2>
+    <p>
+      2.i hope i am doing it fine. 
+    </p>
+    <h3>Heading3</h3>
+    <p>
+      3. this looks fine
+    </p>
+    <h4>Heading4</h4>
+    <p>
+      4. but i might be wrong
+    </p>
+    <h5>Heading5</h5>
+    <p>
+      5. Correct me if i am wrong
+    </p>
+  </body>
+</html>
